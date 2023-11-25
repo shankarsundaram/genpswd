@@ -20,11 +20,11 @@ Generate Random Password based of customizable options.
         genpswd generate [flags]
   
 ## Flags:
-  -d, --digits       Include digits in the password
-  -h, --help         help for generate
-  -n, --length int   Length of the password (default 12)
-  -l, --lowercase    Include lowercase letters in the password
-  -s, --symbols      Include symbols in the password
-  -u, --uppercase    Include uppercase letters in the password
+      -d, --digits       Include digits in the password
+      -h, --help         help for generate
+      -n, --length int   Length of the password (default 12)
+      -l, --lowercase    Include lowercase letters in the password
+      -s, --symbols      Include symbols in the password
+      -u, --uppercase    Include uppercase letters in the password
 
 ### Use "genpswd [command] --help" for more information about a command.
