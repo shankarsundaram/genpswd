@@ -1,5 +1,5 @@
 # genpswd
-Generate Random Password based of customizable options.
+Generate Random Password based on customizable options.
 
 ## Usage:
   genpswd [command]
