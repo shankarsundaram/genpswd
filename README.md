@@ -1,25 +1,25 @@
 # genpswd
 Generate Random Password based of customizable options.
 
-Usage:
+## Usage:
   genpswd [command]
 
-Available Commands:
+## Available Commands:
   completion  Generate the autocompletion script for the specified shell
   generate    Generate Random Passwords
   help        Help about any command
 
-Flags:
+## Flags:
   -h, --help     help for genpswd
   -t, --toggle   Help message for toggle
 
-Example:
+## Example:
         genpswd generate -n 32 -sdul
 
-Usage:
+## Usage:
   genpswd generate [flags]
-
-Flags:
+  
+## Flags:
   -d, --digits       Include digits in the password
   -h, --help         help for generate
   -n, --length int   Length of the password (default 12)
@@ -27,4 +27,4 @@ Flags:
   -s, --symbols      Include symbols in the password
   -u, --uppercase    Include uppercase letters in the password
 
-Use "genpswd [command] --help" for more information about a command.
+# Use "genpswd [command] --help" for more information about a command.
